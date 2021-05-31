@@ -1,38 +1,6 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
 <html class="no-js" lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Contact Page | PHP regex CSS</title>
-	<style>
-		body {
-			background: whitesmoke;
-		}
-		span.error {
-			display: block;
-			padding: 5px;
-			background: red;
-			color: white;
-		}
-		span.hidden {
-			visibility: hidden;
-			padding: 0;
-			margin: 0;
-		}
-		span.success {
-			display: block;
-			padding: 5px;
-			background: green;
-			color: white;
-		}
-		span.success.hidden {
-			visibility: hidden;
-			padding: 0;
-			margin: 0;
-		}
-	</style>
-</head>
 
 <body>
 <body class="hold-transition skin-blue layout-top-nav">
